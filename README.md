@@ -47,7 +47,7 @@
     			   - Acredito que essa área necessite de mais diversidade, todos merecem conhecer esse mundo incrível da tecnologia!<br> <img img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{codezeck}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusMaxs}/count.svg" /></p> 
 <br>
 </div>
 
