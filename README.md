@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ezequiel;I'm+22+years+old;I+from+Brazil;I+study+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=codezeck&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Ezequiel Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezeck&layout=compact&hide_border=true&theme=midnight-purple" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Ezequiel Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMaxs&layout=compact&hide_border=true&theme=midnight-purple" />
 </div>
 
 <br>
