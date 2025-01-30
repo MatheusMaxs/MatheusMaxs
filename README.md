@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ezequiel;I'm+22+years+old;I+from+Brazil;I+study+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Ezequiel Silva github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Matheus Maxs github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMaxs&layout=compact&hide_border=true&theme=midnight-purple" />
 </div>
 
@@ -18,7 +18,7 @@
   <a href="mailto:ezequieldasilvamanco18@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/codezeck/" target="_blank">
+  <a href="https://www.linkedin.com/in/MatheusMaxs/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a> 
 </div>
@@ -33,9 +33,9 @@
 <br>
 <div align="center">
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMaxs/MatheusMaxs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusMaxs/MatheusMaxs/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusMaxs/MatheusMaxs/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 <br>
