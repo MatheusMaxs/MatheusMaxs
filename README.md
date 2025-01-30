@@ -1,55 +1,25 @@
-<img width=100% src="https://github.com/user-attachments/assets/816bbfb4-e3da-4350-badb-15968a7e7c40"/>
-<br>
-<br>
+## Bem-vindo(a) ao perfil de MatheusMaxs 😁
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ezequiel;I'm+22+years+old;I+from+Brazil;I+study+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Matheus Maxs github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMaxs&layout=compact&hide_border=true&theme=midnight-purple" />
+<div>
+   <a href="https://github.com/MatheusMaxs">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMaxs&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-<br>
-
-<div align="center"> 
-  <a href="https://www.instagram.com/zeckbc/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>
-  <a href="mailto:ezequieldasilvamanco18@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/MatheusMaxs/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a> 
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+ 
 <br>
-<br>
-<div align="center">
-  <h3>Studying in this moment:</h3>
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML Badge">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS Badge">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
+ 
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="https://www.youtube.com/MatheusMaxs" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/MatheusMaxs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/users/1086062883961569390" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:MatheusMaxs01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-vinicius-782456308/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<br>
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMaxs/MatheusMaxs/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusMaxs/MatheusMaxs/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusMaxs/MatheusMaxs/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<br>
-<br>
-<br>
-<br>
-<p align="center"> 
-                   - Sempre fui apaixonado por tecnologia, me sinto realizado estudando Lingagens de programação.<br>
-    			   - Acredito que essa área necessite de mais diversidade, todos merecem conhecer esse mundo incrível da tecnologia!<br> <img img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusMaxs}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://github.com/user-attachments/assets/816bbfb4-e3da-4350-badb-15968a7e7c40"/>
