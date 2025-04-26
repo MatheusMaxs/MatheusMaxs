@@ -17,12 +17,12 @@
 
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50">](https://vercel.com/)
-[<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50">](https://www.linkedin.com/)
 [<img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="50">](https://obsidian.md)
 [<img src="https://skillicons.dev/icons?i=notion&theme=dark" width="50">](https://www.notion.so/)
 [<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50">](https://www.figma.com/)
 [<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50">](https://code.visualstudio.com/)
+[<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50">](https://vercel.com/)
+[<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50">](https://www.linkedin.com/)
 
 
 in development
