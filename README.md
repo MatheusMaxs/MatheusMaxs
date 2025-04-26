@@ -24,7 +24,7 @@
 [<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50">](https://www.linkedin.com/)
 
 
-in development
+<b>in development</b>
 
 [<img src="https://skillicons.dev/icons?i=js&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50">](https://www.typescriptlang.org/)
