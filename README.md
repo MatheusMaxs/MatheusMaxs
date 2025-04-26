@@ -1,4 +1,4 @@
-<img src="./computator.gif">
+<img src="./computator.gif" width=100% >
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header"/>
 
 <div align="center">
