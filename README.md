@@ -1,5 +1,5 @@
 <p style="margin: 0; padding: 0;">
-<img src="./Banner.png" width=100% style="margin: 0;padding: 0;">
+<img src="./Banner-.PNG" width=100% style="margin: 0;padding: 0;">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=295e8f&height=120&section=header"/>
 
 <div align="center">
