@@ -1,15 +1,15 @@
 <p style="margin: 0; padding: 0;">
-<img src="./computator.gif" width=100% style="margin: 0;padding: 0;">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header"/>
+<img src="./Banner.png" width=100% style="margin: 0;padding: 0;">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=295e8f&height=120&section=header"/>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A277FF&size=35&center=true&vCenter=true&width=1000&duration=5000&pause=2000&lines=Hello,+I'm+Matheus+Maxs)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=295e8f&size=35&center=true&vCenter=true&width=1000&duration=5000&pause=2000&lines=Hello,+I'm+Matheus+Maxs)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusMaxs&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=151515&title_color=a277ff&text_color=FFF&border_radius=3&border_color=a277ff&icon_color=61ffca&theme=jolly" alt="GitHub stats">
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusMaxs&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=151515&title_color=#295e8f&text_color=FFF&border_radius=3&border_color=#295E8F&icon_color=1875CE&background=00000000" alt="GitHub stats">
 </div>
 
 <div align="center">
@@ -37,11 +37,11 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8C67DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MatheusMaxs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-295E8F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MatheusMaxs/)
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusviniciuskarnoski@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusMaxs&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MatheusMaxs&border=295E8F&fire=092A49&ring=0C3A66&dates=295E8F&currStreakNum=1875CE&background=00000000&excludeDaysLabel=0C3A66&sideNums=1875CE&stroke=0C3A66&currStreakLabel=0C3A66&sideLabels=0C3A66)](https://git.io/streak-stats)
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=295e8f&height=120&section=header"/>
