@@ -5,7 +5,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&count_private=true&bg_color=00000000&title_color=FF0000&text_color=CC0000&icon_color=FF0000&border_color=FF0000" width="49%">
 <br>
-  <img src="https://streak-stats.demolab.com?user=MatheusMaxs&border=FF0000&fire=FF0000&ring=FF0000&dates=DC143C&currStreakNum=FF0000&background=00000000&excludeDaysLabel=DC143C&sideNums=DC143C&stroke=DC143C&currStreakLabel=DC143C&sideLabels=DC143C" width="49%">
+  <img src="https://streak-stats.demolab.com?user=MatheusMaxs&border=FF0000&fire=FF0000&ring=FF0000&dates=FF0000&currStreakNum=FF0000&background=00000000&excludeDaysLabel=FF0000&sideNums=FF0000&stroke=FF0000&currStreakLabel=FF0000&sideLabels=FF0000" width="49%">
 </div>
 
 <br>
