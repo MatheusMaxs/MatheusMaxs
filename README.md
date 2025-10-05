@@ -20,15 +20,14 @@
 <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="CSS3"/>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="GitHub"/>
+   <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="React"/>
  <br>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Figma"/>
   <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Vite"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="React"/>
- 
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="GitHub"/>
 <p>. . .</p>
 </div>
 
