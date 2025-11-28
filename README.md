@@ -1,10 +1,10 @@
 
  <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
- </div> <div align="center">
+ </div>
  <img src="https://komarev.com/ghpvc/?username=matheusmaxs&label=PROFILE%20VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visualizações de Perfil"/>
   <br>
-   <br>
+   <br> <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=000&text=Matheus+Maxs&fontColor=fff&desc=Junior+Front‑End+Engineer+\+Web+Designer&descSize=14&animation=twinkling"/>
 </div>
 
