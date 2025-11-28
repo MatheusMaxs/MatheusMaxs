@@ -38,7 +38,7 @@
 ## Studying
 
 ### Creative Coding
-— explorando a interseção entre matemática e arte por meio de WebGL e shaders, com um projeto em andamento de criação de um motor de partículas baseado em física (progresso de 24% na jornada com Three.js).
+ — exploring the intersection of math and art through WebGL and shaders, currently building a physics-based particle engine (27% progress in the Three.js journey).
 
 ## Languages
 
