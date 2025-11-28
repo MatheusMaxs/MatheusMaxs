@@ -1,43 +1,56 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&duration=5000&pause=2000&lines=Hello,+I'm+Matheus+Maxs,+I'm+a+Front-end+Engineer)](https://git.io/typing-svg)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&count_private=true&bg_color=00000000&title_color=FF0000&text_color=CC0000&icon_color=FF0000&border_color=FF0000" width="49%">
-<br>
-  <img src="https://streak-stats.demolab.com?user=MatheusMaxs&border=FF0000&fire=FF0000&ring=FF0000&dates=FF0000&currStreakNum=FF0000&background=00000000&excludeDaysLabel=FF0000&sideNums=FF0000&stroke=FF0000&currStreakLabel=FF0000&sideLabels=FF0000" width="49%">
+ <div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+ </div> <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=matheusmaxs&label=PROFILE%20VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visualizações de Perfil"/>
+  <br>
+   <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=000&text=Matheus+Maxs&fontColor=fff&desc=Junior+Front‑End+Engineer+\+Web+Designer&descSize=14&animation=twinkling"/>
 </div>
 
-<br>
+## About me
 
+### console.log("Hello World!");
 
+  I’m Matheus Maxs, a 14‑year‑old Front‑End Engineer & Web Designer with over 2 years of experience crafting modern, accessible, and high‑performance user interfaces. Passionate about transforming design into code, I create digital experiences that merge minimalist aesthetics with robust engineering.
 
-<div align="center" >
-  
-### 🛠️ Languages and Tools
+  I believe simplicity is power: every line of code and every pixel should be intentional. My focus is on developing scalable, seamless, and intuitive products—where technology serves human experience, not the other way around.
 
+  Currently, I’m exploring the intersection of creative development and system architecture, continuously pushing the boundaries of what’s possible in the browser.
+
+## Technologies
+
+[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
+[![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![NODE.JS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![API REST](https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=json&logoColor=white)]()
+[![TAILWIND CSS](https://img.shields.io/badge/tailwind_css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
+[![SASS](https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![VITE](https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=white)]()
+[![FIGMA](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)]()
+
+## Studying
+
+### Creative Coding
+— explorando a interseção entre matemática e arte por meio de WebGL e shaders, com um projeto em andamento de criação de um motor de partículas baseado em física (progresso de 24% na jornada com Three.js).
+
+## Languages
+
+- **Português**: nativo
+- **Inglês**: intermediário
+- **Espanhol**: basico
+
+ ## Statistics
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="JavaScript"/>
-   <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="React"/>
- <br>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Visual Studio Code"/>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Vite"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" style="border: 1px solid #555; border-radius: 5px;" alt="GitHub"/>
-<p>. . .</p>
+<div align="space-between">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&count_private=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" width="46%">
+  <img src="https://streak-stats.demolab.com?user=MatheusMaxs&border=FFFFFF&fire=FFFFFF&ring=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&background=00000000&excludeDaysLabel=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" width="49%">
 </div>
-
-<div align="center">
-
-### 🌐 Connect with me
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MatheusMaxs/)
-  [![Email](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusviniciuskarnoski@gmail.com)
-
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
