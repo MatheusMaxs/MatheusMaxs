@@ -10,7 +10,7 @@
 
 ### console.log("Hello World!");
 
-  I’m Matheus Maxs, a 14‑year‑old Front‑End Engineer & Web Designer with over 2 years of experience crafting modern, accessible, and high‑performance user interfaces. Passionate about transforming design into code, I create digital experiences that merge minimalist aesthetics with robust engineering.
+  I’m Matheus Maxs, a 14‑year‑old Front‑End Developer & UI/UX Designer with over 2 years of experience crafting modern, accessible, and high‑performance user interfaces. Passionate about transforming design into code, I create digital experiences that merge minimalist aesthetics with robust engineering.
 
   I believe simplicity is power: every line of code and every pixel should be intentional. My focus is on developing scalable, seamless, and intuitive products—where technology serves human experience, not the other way around.
 
