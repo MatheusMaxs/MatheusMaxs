@@ -2,11 +2,13 @@
  <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
  </div>
- 
+ <div align="center">
+  
 # Matheus Maxs
+  
 | Front-end Developer & UI/UX designer
-
----
+ </div>
+-
 
 ## About me
 
