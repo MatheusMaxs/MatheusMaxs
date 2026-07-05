@@ -2,9 +2,6 @@
  <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
  </div>
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=000&text=Matheus+Maxs&fontColor=fff&desc=Front‑End+Developer+\+UI/UX+Designer&descSize=14&animation="/>
-</div>
 
 ## About me
 
