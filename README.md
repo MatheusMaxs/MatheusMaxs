@@ -38,7 +38,6 @@
  ## Statistics
 <div align="center">
 <div align="space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMaxs&show_icons=true&count_private=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" width="46%">
   <img src="https://streak-stats.demolab.com?user=MatheusMaxs&border=FFFFFF&fire=FFFFFF&ring=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&background=00000000&excludeDaysLabel=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" width="49%">
 </div>
 </div>
