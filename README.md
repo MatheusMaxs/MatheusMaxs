@@ -7,11 +7,11 @@
 
 ### console.log("Hello World!");
 
-  I’m Matheus Maxs, a 14‑year‑old Front‑End Developer & UI/UX Designer with over 2 years of experience crafting modern, accessible, and high‑performance user interfaces. Passionate about transforming design into code, I create digital experiences that merge minimalist aesthetics with robust engineering.
+  I’m Maxs, a 14y Designer Engineer with over 1 years of experience crafting minimalist, accessible, and high‑performance user interfaces.
 
   I believe simplicity is power: every line of code and every pixel should be intentional. My focus is on developing scalable, seamless, and intuitive products—where technology serves human experience, not the other way around.
 
-  Currently, I’m exploring the intersection of creative development and system architecture, continuously pushing the boundaries of what’s possible in the browser.
+  Currently, I’m exploring the intersection of creative development and system architecture, continuously pushing the boundaries of what’s possible in the web.
 
 ## Technologies
 
@@ -31,15 +31,9 @@
 [![VITE](https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=white)]()
 [![FIGMA](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)]()
 
-## Studying
-
-### Creative Coding
- — exploring the intersection of math and art through WebGL and shaders, currently building a physics-based particle engine (27% progress in the Three.js journey).
-
 ## Languages
-
-- **Português**: native
-- **Inglês**: B2
+- **Portuguese**: native
+- **English**: B2
 
  ## Statistics
 <div align="center">
