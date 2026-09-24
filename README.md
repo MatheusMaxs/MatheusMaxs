@@ -38,9 +38,8 @@
 
 ## Languages
 
-- **Português**: nativo
-- **Inglês**: intermediário
-- **Espanhol**: basico
+- **Português**: native
+- **Inglês**: B2
 
  ## Statistics
 <div align="center">
